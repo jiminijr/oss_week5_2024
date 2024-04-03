@@ -1,3 +1,7 @@
 2020314014
 easy git commands 
+<<<<<<< HEAD
 pull_test_2
+=======
+pull_test_1
+>>>>>>> refs/remotes/origin/main
