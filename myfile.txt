@@ -1,0 +1,4 @@
+“2020314014”
+easy git commands 
+add: index registration 
+commit: history recording
